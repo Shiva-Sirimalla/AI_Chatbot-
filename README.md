@@ -1,6 +1,10 @@
-# Groq AI Chatbot
+# AI Chatbot
 
 A Python chatbot with a Streamlit web UI, powered by the Groq API.
+
+## Repository
+
+https://github.com/Shiva-Sirimalla/AI_Chatbot-
 
 ## Features
 
@@ -33,8 +37,8 @@ start.bat     # Windows one-click launcher
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/Shiva-Sirimalla/groq-chatbot.git
-cd groq-chatbot
+git clone https://github.com/Shiva-Sirimalla/AI_Chatbot-.git
+cd AI_Chatbot-
 ```
 
 2. Create a virtual environment and install dependencies:
