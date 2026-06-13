@@ -1,10 +1,26 @@
 # AI Chatbot
 
-A Python chatbot with a Streamlit web UI, powered by the Groq API.
+AI-powered conversational chatbot built with **Python**, **Streamlit**, and the **Groq API** (Llama 3.3). Supports real-time streaming responses, session-based conversation memory, and a clean web chat interface.
 
-## Repository
+**Repository:** https://github.com/Shiva-Sirimalla/AI_Chatbot-
 
-https://github.com/Shiva-Sirimalla/AI_Chatbot-
+## About This Project
+
+This project is a full-stack AI chatbot application that lets users chat with a large language model through a simple browser UI. It uses Groq's fast inference API with the Llama 3.3 model to generate helpful, conversational replies in real time.
+
+The app is designed as a **fresher portfolio project** and demonstrates practical skills in Python development, API integration, environment configuration, and building interactive web apps with Streamlit.
+
+### What It Does
+
+- Accepts user messages through a Streamlit chat interface
+- Sends prompts to Groq's Llama 3.3 model
+- Streams AI responses word-by-word for a smooth chat experience
+- Remembers recent conversation context during a session
+- Supports both **web UI** and **CLI** modes
+
+### Why I Built This
+
+To practice building a real AI application from scratch — connecting a frontend UI to an LLM API, handling streaming output, managing chat history, and structuring a clean Python project for deployment and portfolio use.
 
 ## Features
 
@@ -103,4 +119,14 @@ python main.py
 
 ## Author
 
-Fresher portfolio project — Python AI chatbot with Groq and Streamlit.
+**Shiva Sirimalla** — Fresher portfolio project showcasing Python, Groq API, and Streamlit.
+
+## GitHub About Description
+
+Use this short text in your repo **About** section on GitHub:
+
+```text
+AI-powered chatbot using Python, Streamlit, and Groq Llama 3.3. Real-time streaming responses, session memory, CLI + web UI. Fresher portfolio project.
+```
+
+Suggested topics: `python` `streamlit` `groq` `llama` `chatbot` `ai` `generative-ai` `llm`
