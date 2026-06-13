@@ -33,7 +33,7 @@ start.bat     # Windows one-click launcher
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/groq-chatbot.git
+git clone https://github.com/Shiva-Sirimalla/groq-chatbot.git
 cd groq-chatbot
 ```
 
