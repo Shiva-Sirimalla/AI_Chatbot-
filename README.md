@@ -46,7 +46,13 @@ Built as a **fresher portfolio project**, this repo demonstrates practical skill
 python run.py
 ```
 
-Screenshots are available in the [`Screenshots/`](Screenshots/) folder.
+### Screenshots
+
+| Screenshot | Description |
+|------------|-------------|
+| [`01_Chatbot_Welcome_Screen.pdf`](Screenshots/01_Chatbot_Welcome_Screen.pdf) | Main chatbot UI with welcome message and Groq connection status |
+| [`02_Chatbot_Python_Question_Example.pdf`](Screenshots/02_Chatbot_Python_Question_Example.pdf) | User asks *"what is python"* and the bot gives a clear explanation |
+| [`03_Chatbot_Coding_Prime_Function_Example.pdf`](Screenshots/03_Chatbot_Coding_Prime_Function_Example.pdf) | User asks for a prime-number Python function and the bot returns code |
 
 ---
 
@@ -90,7 +96,10 @@ AI_Chatbot-/
 ├── start.bat           # Windows one-click launcher
 ├── requirements.txt    # Python dependencies
 ├── .env.example        # Environment template
-└── Screenshots/        # App screenshots
+└── Screenshots/
+    ├── 01_Chatbot_Welcome_Screen.pdf
+    ├── 02_Chatbot_Python_Question_Example.pdf
+    └── 03_Chatbot_Coding_Prime_Function_Example.pdf
 ```
 
 ---
