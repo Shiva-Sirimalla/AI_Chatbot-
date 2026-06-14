@@ -48,11 +48,20 @@ python run.py
 
 ### Screenshots
 
-| Screenshot | Description |
-|------------|-------------|
-| [`01_Chatbot_Welcome_Screen.pdf`](Screenshots/01_Chatbot_Welcome_Screen.pdf) | Main chatbot UI with welcome message and Groq connection status |
-| [`02_Chatbot_Python_Question_Example.pdf`](Screenshots/02_Chatbot_Python_Question_Example.pdf) | User asks *"what is python"* and the bot gives a clear explanation |
-| [`03_Chatbot_Coding_Prime_Function_Example.pdf`](Screenshots/03_Chatbot_Coding_Prime_Function_Example.pdf) | User asks for a prime-number Python function and the bot returns code |
+#### 1. Welcome Screen
+Main chatbot UI with welcome message and Groq connection status.
+
+<img src="Screenshots/01_Chatbot_Welcome_Screen.png" alt="Chatbot Welcome Screen" width="800"/>
+
+#### 2. Python Question Example
+User asks *"what is python"* and the bot gives a clear explanation.
+
+<img src="Screenshots/02_Chatbot_Python_Question_Example.png" alt="Chatbot Python Question Example" width="500"/>
+
+#### 3. Coding Help Example
+User asks for a prime-number Python function and the bot returns code.
+
+<img src="Screenshots/03_Chatbot_Coding_Prime_Function_Example.png" alt="Chatbot Coding Prime Function Example" width="800"/>
 
 ---
 
@@ -97,9 +106,9 @@ AI_Chatbot-/
 ├── requirements.txt    # Python dependencies
 ├── .env.example        # Environment template
 └── Screenshots/
-    ├── 01_Chatbot_Welcome_Screen.pdf
-    ├── 02_Chatbot_Python_Question_Example.pdf
-    └── 03_Chatbot_Coding_Prime_Function_Example.pdf
+    ├── 01_Chatbot_Welcome_Screen.png
+    ├── 02_Chatbot_Python_Question_Example.png
+    └── 03_Chatbot_Coding_Prime_Function_Example.png
 ```
 
 ---
