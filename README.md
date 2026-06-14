@@ -120,13 +120,3 @@ python main.py
 ## Author
 
 **Shiva Sirimalla** — Fresher portfolio project showcasing Python, Groq API, and Streamlit.
-
-## GitHub About Description
-
-Use this short text in your repo **About** section on GitHub:
-
-```text
-AI-powered chatbot using Python, Streamlit, and Groq Llama 3.3. Real-time streaming responses, session memory, CLI + web UI. Fresher portfolio project.
-```
-
-Suggested topics: `python` `streamlit` `groq` `llama` `chatbot` `ai` `generative-ai` `llm`
