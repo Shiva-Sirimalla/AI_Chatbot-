@@ -215,10 +215,6 @@ The chatbot is a general-purpose AI assistant. Try questions like:
 
 **Shiva Sirimalla**
 
-Fresher developer | Python | AI/ML | Streamlit
-
-[![GitHub](https://img.shields.io/badge/GitHub-Shiva--Sirimalla-181717?style=flat-square&logo=github)](https://github.com/Shiva-Sirimalla)
-
 ---
 
 <div align="center">
